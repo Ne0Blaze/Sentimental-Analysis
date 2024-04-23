@@ -1,0 +1,12 @@
+Using NLTK and its Sentiment_Intensity_Analyzer tool
+Sentiment Analyzer in NLTK has a weighted value for every word in its vocab i.e Negative-Nuteral-Positive-Compund
+Using this Scores/weights it identifies if the entire statememnt/sentance is positive or negative
+We can use this to train a model to identify the emotion of reviews -in this case Amazon reviews
+SIA cannot understand sarcasm and will only predict on what it reads 
+
+
+
+I have also converted the old Movie Reviews to fot this model so we can compare its performance
+
+
+NOTE# All the data used to train the model is included
